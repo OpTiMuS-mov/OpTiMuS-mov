@@ -213,17 +213,11 @@ Working through realistic security scenarios to strengthen investigation, detect
 
 </details>
 
-<details>
-<summary><b>🐍 Contribution Snake (setup required)</b></summary>
-<br/>
+## 🐍 Contribution Snake
 
-To enable this, add a GitHub Action from [Platane/snk](https://github.com/Platane/snk) to your profile repo — it generates `github-contribution-grid-snake-dark.svg` automatically on a schedule.
-
-```md
-![snake gif](https://raw.githubusercontent.com/OpTiMuS-mov/OpTiMuS-mov/output/github-contribution-grid-snake-dark.svg)
-```
-
-</details>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OpTiMuS-mov/OpTiMuS-mov/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+</div>
 
 ---
 
